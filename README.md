@@ -15,3 +15,29 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
     <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
   </a>
 </p>
+提交：
+
+```bash
+git add .
+git commit -m ''
+git push
+```
+
+同步：
+
+```bash
+npx quartz sync
+```
+
+本地构建：
+
+```bash
+npx quartz build --serve
+```
+
+查看更新状态：
+
+```bash
+git status
+```
+

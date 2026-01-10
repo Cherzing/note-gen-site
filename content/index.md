@@ -10,6 +10,6 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 更多内容：
 
-[个人网站](www.cherzing.cn)
+[个人网站](https://www.cherzing.cn)
 
 [邮箱](mailto:cherzing@qq.com)
