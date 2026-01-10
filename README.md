@@ -41,3 +41,13 @@ npx quartz build --serve
 git status
 ```
 
+
+
+
+
+指令一条龙服务：
+
+```bash
+./deploy.ps1 '输入更新的内容'
+```
+
